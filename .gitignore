@@ -15,3 +15,11 @@ media/uploads
 tmp
 .DS_Store
 
+
+VENV
+*.pyc
+__pycache__
+staticfiles
+local_settings.py
+#db.sqlite3
+
